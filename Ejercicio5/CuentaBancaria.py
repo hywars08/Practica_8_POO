@@ -37,7 +37,6 @@
 # Nombre de la clase: CuentaBancaria
 # Descripción: Gestiona la cuenta bancaria de una persona guardando su nombre. Además de manegar su sueldo, ingresos y salidas
 # y poder mostrar los últimos movimientos
-# El más importante el que realiza las peleas entre dos soldados
 # Autor: Miguel Jun Patricio Ferrer
 # Fecha de creación: 10/11/26
 # Fecha de ult. modificación: 10/11/26
